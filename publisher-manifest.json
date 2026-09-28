@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "bb8185fbdd58c28a9ae10d8c",
+  "owner": "pmfqkkpsu",
+  "repo": "page-2bbe0a60a643bb1d2cf7f659",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2bbe0a60a643bb1d2cf7f659",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ecaf44c6add4beb01fef194fef7cf42cf9b28a15ce2be795e743eb06266c28bc",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云提供专业VPN加速服务，高速流量支持，客户端下载即用。解锁流媒体，全球节点加速。",
+          "AI_DESCRIPTION": "大哥云提供专业VPN加速服务，高速流量支持，客户端下载即用。解锁流媒体，全球节点加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;line-height:1.7;color:#333;max-width:1200px;margin:0 auto;background:#f8f5f0}header{background:linear-gradient(to right,#2E7D32,#1B5E20);color:#fff;padding:1rem 0}.nav{display:flex;justify-content:space-between;align-items:center;max-width:1200px;margin:0 auto;padding:0 2rem}.logo{font-size:1.8rem;font-weight:700}.nav a{color:#fff;text-decoration:none;margin:0 1.5rem;font-size:1rem}.hero{background:#2E7D32;color:#fff;text-align:center;padding:4rem 2rem;border-radius:12px;margin:2rem 0}h1{font-size:2.8rem;margin:0}.stagger{display:flex;flex-wrap:wrap;gap:2rem;margin-bottom:3rem}.left,.right{flex:1;min-width:280px}.left{padding:2rem;background:#fff;border-radius:8px}.right{padding:2rem;background:#f8f5f0;border-radius:8px}h2{color:#2E7D32;font-size:1.8rem;margin-bottom:1rem}h3{color:#1B5E20}ul,ol{padding-left:1.5rem}.plans{max-width:1200px;margin:0 auto}details{margin-bottom:1rem;background:#fff;padding:1rem;border-radius:8px}summary{font-weight:700;cursor:pointer}.cta{background:#2E7D32;color:#fff;padding:1rem 2rem;text-align:center;border-radius:8px;margin:2rem 0}footer{text-align:center;padding:2rem;color:#666}</style><header><nav class=\"nav\"><div class=\"logo\">大哥云</div><div><a href=\"#intro\">关于我们</a><a href=\"#scenarios\">使用场景</a><a href=\"#howto\">操作指南</a><a href=\"#plans\">套餐选择</a><a href=\"#faq\">常见问题</a><a href=\"#clients\">客户端下载</a></div></nav></header><main><div class=\"hero\"><h1>大哥云</h1><p>高速VPN加速器 | 全球节点 | 客户端下载</p></div><section id=\"intro\" class=\"stagger\"><div class=\"left\"><h2>品牌简介</h2><p>大哥云是一款专注于网络加速的品牌，提供稳定可靠的VPN服务。无论您是个人用户还是企业团队，都能找到合适的高速连接方案。</p><p>我们致力于让互联网更快更安全。</p></div><div class=\"right\"><h3>核心价值</h3><ul><li>每月超高流量</li><li>多设备并发</li><li>专业客服支持</li><li>隐私零泄漏</li></ul></div></section><section id=\"scenarios\" class=\"stagger\"><div class=\"right\"><h2>使用场景</h2><p>适用于各类网络需求场景：</p><ul><li>流媒体解锁：Netflix、YouTube、Disney+ 无广告观看</li><li>游戏加速：降低延迟，优化游戏连接</li><li>远程工作：安全连接海外网络</li><li>内容访问：绕过地区限制</li></ul></div><div class=\"left\"><h3>为什么选择大哥云？</h3><p>我们的节点分布全球，线路优化专业，让您始终保持最佳速度。</p></div></section><section id=\"howto\" class=\"stagger\"><div class=\"left\"><h2>操作说明</h2><ol><li>访问官网下载最新客户端</li><li>安装并注册账号</li><li>选择合适的节点</li><li>点击连接开始使用</li></ol></div><div class=\"right\"><h3>客户端优势</h3><p>简洁界面，一键操作，实时状态显示。</p></div></section><section id=\"plans\"><h2>选择适合您的套餐</h2><div class=\"plans\">{{PLANS_HTML}}</div></section><section id=\"clients\"><h2>下载客户端</h2><div class=\"clients\">{{CLIENTS_HTML}}</div></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>大哥云是什么服务？</summary><p>大哥云是一款专业的VPN加速器，提供高速稳定的网络连接，帮助用户解锁被屏蔽内容，保护上网隐私。</p></details><details><summary>流量如何计算？</summary><p>流量按月结算，包含每月固定GB高速流量，超出部分可续费或升级。</p></details><details><summary>支持哪些设备？</summary><p>支持Windows、macOS、iOS、Android、Linux 等多种操作系统和设备。</p></details><details><summary>支持流媒体解锁吗？</summary><p>旗舰版及以上套餐支持主流流媒体平台的原生解锁，无需额外插件。</p></details><details><summary>售后服务支持吗？</summary><p>提供7x24在线技术支持，专业团队24小时响应处理。</p></details><details><summary>节点质量如何？</summary><p>基础版为普通线路，旗舰版IPLC专线，团队版VIP高带宽，速度和稳定性有保障。</p></details></section></main><footer><p>© 2024 大哥云 所有权利保留 | 官网下载</p></footer>",
+          "hash": "349c8304b7d4ea3ff070cad51452739964b027d26032f51291564aa1c6f56ca4",
+          "seo": {
+            "title": "大哥云VPN - 高速加速器客户端下载官网",
+            "keywords": "大哥云,VPN,加速器,客户端下载,机场",
+            "description": "大哥云提供专业VPN加速服务，高速流量支持，客户端下载即用。解锁流媒体，全球节点加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zzjiakaikeji.cn",
+    "host": "m.zzjiakaikeji.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "zzjiakaikeji.cn",
+      "url": "https://zzjiakaikeji.cn/",
+      "label": "Xlinkworld",
+      "apex": "zzjiakaikeji.cn",
+      "kind": null,
+      "identity": "akmahkpc/page-a7c321c3c9a76c38bb513fe6"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "c38e243c88b3028ddddce1a8888de12eb8bc06e16f60313cda449648be5beb73",
+    "sitemap.xml": "0906916cf5a915be4412fe7cc3fdd7f207d30294dd873f4763b566ac0e12a721",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ec81ac3479d660fd138bf8c491b6ff72ec71ce16736e1d852cf0a307ecbcaf8e",
+    "robots.txt": "67e6d9d45d2d8c99b6ca4b7ed12e51f70cec4875bfcd9cdd27947c7f39fc20f6",
+    "2dbc47c92d1d7c0d709df7bac27e5c8f.txt": "7887371c392554d419d193f62de0f52361e2d106d9e9a01b2b57ef2c00513079"
+  },
+  "revision": "34d395a222f2ed627dc37645786172509b4e0ab4696fdf1604f936e125d52f40"
+}
